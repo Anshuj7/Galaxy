@@ -16,6 +16,9 @@ This website is made for all those young kids who have an interest in exploring 
 * JavaScript
                   
  ### Credits
-GSAP
-SwiperJS
-Nasa.gov
+* GSAP
+* SwiperJS
+* Nasa.gov
+
+### Visit the site here
+https://gemltd.netlify.app/
